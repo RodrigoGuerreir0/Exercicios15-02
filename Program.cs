@@ -13,6 +13,7 @@ namespace Exercicios15_02
             double n1 = 0;
             Console.WriteLine("digite um numero: ");
             n1 = Convert.ToDouble(Console.ReadLine());
+            // git status esta querendo dizer que eu fiz uma alteração no codigo e não  digitei o git commit //
         }
     }
 }
