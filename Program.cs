@@ -11,10 +11,9 @@ namespace Exercicios15_02
         static void Main(string[] args)
         {
 
-            double n1 = 0;
+          
             double n2 = 0;
-            Console.WriteLine("digite um numero: ");
-            n1 = Convert.ToDouble(Console.ReadLine());
+            
             Console.WriteLine("Digite o segundo numero");
             n2 = Convert.ToDouble(Console.ReadLine());
      // git status esta querendo dizer que eu fiz uma alteração no codigo e não  digitei o git commit
